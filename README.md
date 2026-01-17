@@ -57,12 +57,6 @@ You can browse all my repositories and coding exercises by clicking the link bel
 
 <hr>
 
-<h3>📱 Connect with me</h3>
-
-<a href="mailto:67kiren67@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
 </div>
 
 **IDEs & Editors:**
