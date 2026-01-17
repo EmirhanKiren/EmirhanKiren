@@ -37,9 +37,16 @@ My primary goal is to become a professional **Game Developer**. I love creating 
 ### 📚 Currently Learning
 I am actively expanding my skill set in game development and high-end video post-production:
 
-**Game Engines:** Unity & Unreal Engine
+**Game Engines:**
 <br>
-**Video Editing:** Adobe Premiere Pro
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+<br>
+
+**Video Editing:**
+<br>
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
 ---
 
